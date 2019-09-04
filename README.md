@@ -16,7 +16,7 @@ The patterns of operations can be specifically observed in Figure 2. And the com
 
 There are many methods to check whether a number is a prime or not, I referred to Sieve of Eratosthenes, and implemented it as my primality test function in my codes. The method is described in Wikipedia link below:
 [link to Wiki](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
-##Data Structure
+## Data Structure
 For data structure, I used Nested Dictionary in Python, a collection of dictionaries into a single dictionary, and can be described as follows:
 ```python
 nested_dict = {‘keyA’: {‘nested_keyA1’: ‘valueA1’, ‘nested_keyA2’: ‘valueA2’ }
